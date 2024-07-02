@@ -1,0 +1,32 @@
+//成功救出公主的情况1
+go up
+go east
+go north
+go west
+go up
+
+//成功救出公主的情况2
+go west
+go west
+go south
+go west
+go up
+
+//找到公主前就遇到怪兽的情况
+go down
+go down
+go east
+
+//找到公主后遇到怪兽的情况
+go down
+go east
+go north
+go west
+go north
+
+//不合法输入
+gogo east
+
+//向不存在的出口运动
+go east
+go east

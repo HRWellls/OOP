@@ -1,0 +1,33 @@
+no      student name        CS101       MATH201     ENG102      PHY301      CHEM202     BIOLOGY101  HIST202     average     
+0       AliceJohnson        85          78          92          /           /           /           /           85          
+1       BobSmith            70          82          /           75          88          /           /           78.75       
+2       EmilyDavis          87          /           95          /           /           80          72          83.5        
+3       CharlieBrown        /           68          /           90          85          /           78          80.25       
+4       DavidWilson         92          85          79          /           /           76          /           83          
+5       EmmaThompson        /           /           84          88          93          /           70          83.75       
+6       GraceLee            75          91          /           83          79          /           88          83.2        
+7       HannahWhite         78          /           90          /           /           82          87          84.25       
+8       JackRobinson        /           85          79          77          92          /           84          83.4        
+9       JamesBrown          73          90          87          82          /           88          /           84          
+10      JessicaGarcia       /           93          78          86          /           80          85          84.4        
+11      JohnJohnson         85          77          92          /           /           /           /           84.6667     
+12      AlexSmith           /           /           95          88          89          80          82          86.8        
+13      SarahDavis          75          90          /           83          79          /           88          83          
+14      MichaelJohnson      78          85          90          /           /           82          87          84.4        
+15      OliviaBrown         85          /           84          88          93          /           70          84          
+16      IsabellaMartinez    75          /           90          83          79          /           88          83          
+17      EthanTaylor         78          85          /           88          /           82          87          84          
+18      AvaAnderson         /           /           95          88          89          80          82          86.8        
+19      NoahWilson          75          90          /           83          79          /           88          83          
+20      MiaHernandez        78          85          90          /           /           82          87          84.4        
+21      EthanJohnson        85          /           84          88          93          /           70          84          
+22      LilyBrown           78          85          /           88          /           82          87          84          
+23      BenjaminGarcia      /           /           95          88          79          80          88          86          
+24      MiaJohnson          75          90          /           83          79          /           88          83          
+25      SophiaRodriguez     78          85          90          /           /           82          87          84.4        
+26      WilliamMartinez     85          /           84          88          93          /           70          84          
+27      MiaThompson         78          85          /           88          /           82          87          84          
+28      AlexanderWilson     /           /           /           /           79          /           /           79          
+average                     79.4286     84.9444     88.0526     85.25       85.5        81.2857     82.6087     
+max                         92          93          95          90          93          88          88          
+min                         70          68          78          75          79          76          70          
